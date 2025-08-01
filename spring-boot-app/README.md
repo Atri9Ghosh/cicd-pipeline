@@ -55,8 +55,8 @@ Hurray !! Access the application on `http://<ip-address>:8010`
 System Requirements
 Java 17+ (Oracle JDK, OpenJDK, or AdoptOpenJDK)
 Hardware Recommendations:
-   Minimum 2 GB RAM
-   2 CPU cores
+Minimum 2 GB RAM
+2 CPU cores
 sudo apt update && sudo apt install unzip -y
 adduser sonarqube
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.4.1.88267.zip
